@@ -1,0 +1,5 @@
+{
+  "name": "multipass-bash",
+  "description": "Custom Multipass images for bash basic development",
+  "version": "1.0.3"
+}
