@@ -27,7 +27,7 @@
             "inline": [
                 "git clone https://github.com/leonardothibes/multipass-scripts.git /tmp/multipass-scripts",
                 "chmod 755 /tmp/multipass-scripts/scenarios/*",
-                "cd /tmp/multipass-scripts ; ./scenarios/bash.sh"
+                "cd /tmp/multipass-scripts ; ./scenarios/php-7.4.sh"
             ]
         },
         {
