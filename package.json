@@ -1,5 +1,5 @@
 {
-  "name": "multipass-bash",
-  "description": "Custom Multipass images for bash basic development",
-  "version": "1.0.3"
+  "name": "multipass-php-7.4",
+  "description": "Custom Multipass images for PHP 7.4 development",
+  "version": "0.1.0"
 }

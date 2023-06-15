@@ -1,7 +1,7 @@
-MULTIPASS-BASH
-==============
+MULTIPASS-PHP-7.4
+=================
 
-Custom Multipass images for bash basic development.
+Custom Multipass images for PHP 7.4 development.
 
 ### Build Image
 ```bash
